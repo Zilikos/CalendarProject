@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "224305491751",
+    "firebase_url": "https://calendarproject-8d039.firebaseio.com",
+    "project_id": "calendarproject-8d039",
+    "storage_bucket": "calendarproject-8d039.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224305491751:android:2cb20a5003ce0bfb",
+        "android_client_info": {
+          "package_name": "com.scolari.calendarproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "224305491751-6vhtgfbpa5sbrl7os2visl7htj3178lt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD61lM6ZysC_Bbe2QUjoEBB0NPIV3rUr4c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

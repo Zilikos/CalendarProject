@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tabs>
+
+    <tab
+        id="@+id/contacts"
+        title="@string/tab_contacts"
+        barColorWhenSelected="@color/colorPrimary"
+        icon="@drawable/ic_contacts"
+        />
+
+    <tab
+        id="@+id/academy"
+        title="@string/tab_academy"
+        barColorWhenSelected="@color/colorPrimary"
+        icon="@drawable/ic_academy"
+        />
+
+    <tab
+        id="@+id/calendar"
+        title="@string/tab_calendar"
+        barColorWhenSelected="@color/colorPrimary"
+        icon="@drawable/ic_calendar"
+        />
+
+    <tab
+        id="@+id/perform"
+        title="@string/tab_perform"
+        barColorWhenSelected="@color/colorPrimary"
+        icon="@drawable/ic_perform"
+        />
+
+</tabs>

@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">CalendarProject</string>
+    <string name="hint_username">Usuario</string>
+    <string name="hint_password">Password</string>
+    <string name="text_button_login">Entrar</string>
+    <string name="create_here">Registrate aquí</string>
+    <string name="tab_contacts">Contactos</string>
+    <string name="tab_academy">Academia</string>
+    <string name="tab_calendar">Calendario</string>
+    <string name="tab_perform">Rendimiento</string>
+    <string name="tab_home">Crear nueva actividad</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hint_nameMateria">Materia</string>
+    <string name="hint_tarea">Nombre de la tarea</string>
+    <string name="hint_descripcionAct">Descripción</string>
+    <string name="hint_HorarioAct">Horario</string>
+    <string name="hint_fechaAct">Fecha</string>
+    <string name="text_button_creatAct">Crear</string>
+
+
+</resources>
