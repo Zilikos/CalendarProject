@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<android.support.v7.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:cardview="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/prictureCard"
+    android:layout_width="match_parent"
+    android:layout_height="65dp"
+    cardview:cardCornerRadius="@dimen/cornerradius_cardview"
+    android:layout_marginBottom="@dimen/activity_vertical_margin"
+    android:elevation="100dp"
+    >
+
+
+
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="256dp"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_toLeftOf="@+id/chkHecho"
+        >
+
+        <TextView
+            android:id="@+id/txtTitulo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="@style/TextAppearance.AppCompat.Large"
+            android:text="Titulo"
+            android:layout_margin="2dp"
+
+            />
+
+
+        <TextView
+            android:id="@+id/txtDescription"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Descripcion"
+
+            android:layout_margin="7dp"
+
+            />
+    </LinearLayout>
+
+    <CheckBox
+        android:id="@+id/chkHecho"
+        android:layout_width="83dp"
+        android:layout_height="match_parent"
+        android:text="Hecho"
+        android:layout_gravity="right"
+        android:checked="false"
+        android:layout_centerVertical="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        />
+
+
+
+</android.support.v7.widget.CardView>
