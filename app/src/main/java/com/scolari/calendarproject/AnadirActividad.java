@@ -92,7 +92,7 @@ public class AnadirActividad extends AppCompatActivity implements View.OnClickLi
             timePickerDialog.show();
         }
 
-        //fjad
+        //fjads
 
         //Aqui es el clicl para almacenar los datos caputrados
        if (v==CrearAct) {
