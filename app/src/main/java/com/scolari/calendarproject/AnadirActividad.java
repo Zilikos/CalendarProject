@@ -92,6 +92,8 @@ public class AnadirActividad extends AppCompatActivity implements View.OnClickLi
             timePickerDialog.show();
         }
 
+        //fjad
+
         //Aqui es el clicl para almacenar los datos caputrados
        if (v==CrearAct) {
             materiaS = String.valueOf(materiaNewAct.getText());
